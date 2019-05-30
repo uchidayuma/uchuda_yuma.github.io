@@ -91,10 +91,12 @@ Amazon
 - gulp(sassコンパイル用タスクランナー)
 
 ## 2017年8月〜2017年12月
-**ソーシャルギフトサービス「[Anny](anny.gift)」**
+**ソーシャルギフトサービス「[Anny](https://anny.gift)」**
 ルートプラスおよび、打田初となる自社サービス
-[リクエスターン](https://prtimes.jp/main/html/rd/p/000000001.000021364.html)
 
+
+<img src='/uchuda_yuma.github.io/assets/images/anny.png'>
+-- https://anny.giftより引用 --
 
 ## 2016年9月〜2017年5月
 **学生発信型インターンシップサイト「リクエスターン」**
