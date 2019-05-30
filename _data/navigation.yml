@@ -1,0 +1,7 @@
+main:
+  - title: "top"
+    url: /docs/quick-start-guide/
+  - title: "lecture-history"
+    url: /lectures/
+  - title: "Contact"
+    url: /contact/
