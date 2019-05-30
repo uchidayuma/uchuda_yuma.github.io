@@ -58,6 +58,7 @@ Amazon
 
 直感的操作でWebサイトを開発できるCMSシステムの開発。 iframe + contenteditableの組み合わせにより、直感的操作で思い通りのWebサイトを開発できる仕組みを以下の技術で開発した。
 [Image](/assets/images/suke10.png)
+<img src='/assets/images/suke10.png'>
 
 
 ### アプリケーション
