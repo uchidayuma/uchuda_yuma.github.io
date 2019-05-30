@@ -1,6 +1,7 @@
 # 職務経歴
 このページは株式会社ルートプラス 代表の打田裕馬の講師経歴を掲載しているページです。
 私に興味を持っていただいた方や開発の依頼は各種SNSか、メールでご連絡いただきますようにお願いします。
+[講師経歴はこちらから](/uchuda_yuma.github.io/lectures)
 
 ## 2019年6月〜
 **広告会社向けCRMの開発**
@@ -60,7 +61,7 @@ Amazon
 **起業家向けSNS**
 
 直感的操作でWebサイトを開発できるCMSシステムの開発。 iframe + contenteditableの組み合わせにより、直感的操作で思い通りのWebサイトを開発できる仕組みを以下の技術で開発した。
-[Image](/assets/images/suke10.png)
+
 <img src='/uchuda_yuma.github.io/assets/images/suke10.png'>
 -- https://suke10.comより引用 --
 
