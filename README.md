@@ -1,12 +1,34 @@
-## Welcome to GitHub Pages
+# 職務経歴
 
 You can use the [editor on GitHub](https://github.com/uchidayuma/uchuda_yuma.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## 2019年6月〜
+**広告会社向けCRMの開発**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+### アプリケーション
+- Laravel 5.8
+- PHP7.3
+- jquery 3.3.1
+- MariaDB 14.4.4
+- nginx 1.15
+
+### 本番環境
+Amazon
+- EC2
+- RDS
+- S3
+
+### ローカル開発環境
+docker-compose
+
+
+## 2019年1月〜5月
+
+直感的操作でWebサイトを開発できる
 
 ```markdown
 Syntax highlighted code block
