@@ -4,10 +4,16 @@
 [講師経歴はこちらから](/uchuda_yuma.github.io/lectures)
 
 
-## 2019年6月〜
+## 2019年6月〜開発中
 **広告会社向けCRMの開発**
+ローカル広告会社様向けの営業ツール。広告会社としてイベントを開催した際の効果測定、提案レコメンドなどデータの分析も用いた営業ツールを開発。
+自社だけではなく、クライアントのエンジニアも巻き込んでの開発になるため、phpunitでのテストファースト開発はもちろんのこと、文法のチェックツールや自動整形ツールを用いて品質の向上に取り組んでいる。
 
-
+### テスト・品質向上ツール
+- phpunit
+- PHP Coding Standards Fixer（syntaxチェック）
+- PHP CS Fixer（自動整形）
+- Gitlab Runner（CI/CD）
 
 ### アプリケーション
 - Laravel 5.8
@@ -23,7 +29,7 @@ Amazon
 - RDS
 - S3
 
-### ローカル開発環境
+### 開発環境
 **docker-compose**
 - PHP7
 - nginx
@@ -92,11 +98,35 @@ Amazon
 
 ## 2017年8月〜2017年12月
 **ソーシャルギフトサービス「[Anny](https://anny.gift)」**
-ルートプラスおよび、打田初となる自社サービス
+業務委託契約でトレンダーズ下部組織にて、住所がわからなくて贈れるソーシャルギフトサービス「Anny」のフロントエンド開発のメイン担当として関わる。
+sassでの基本設計を行い、BEM,mixin等の周辺技術を身につけながら、破綻しないCSS設計を行った。
 
 
 <img src='/uchuda_yuma.github.io/assets/images/anny.png'>
 -- https://anny.giftより引用 --
+
+### アプリケーション
+- Ruby on Rails5
+- Ruby 3.4
+- nginx1.12
+- jQuery 3.2.1
+- MySQL 5.7
+
+### 本番環境
+Amazon
+- EC2
+- ECS (Dockerオーケストレーション)
+- RDS
+- S3
+
+### ローカル開発環境
+**ubuntu server 16.0.4LTS**
+- Ruby on Rails5
+- Ruby 3.4
+- nginx1.12
+- jQuery 3.2.1
+- MySQL 5.7
+
 
 ## 2016年9月〜2017年5月
 **学生発信型インターンシップサイト「リクエスターン」**
