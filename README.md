@@ -13,7 +13,7 @@
 - phpunit
 - PHP Coding Standards Fixer（syntaxチェック）
 - PHP CS Fixer（自動整形）
-- Gitlab Runner（CI/CD）
+- GitLab Runner（CI/CD）
 
 ### アプリケーション
 - Laravel 5.8
@@ -35,6 +35,52 @@ Amazon
 - nginx
 - MariaDB
 - gulp(sassコンパイル用タスクランナー)
+
+### パッケージマネージャー
+- composer
+- npm
+
+
+## 2019年4月〜開発中
+**プログラミングの質問回答に特化したチャットボットの開発**
+google検索では適切な検索ができない初心者向けのWebサービス。フロントをReact.js・APIサーバーをLaravel5.5で開発。シームレスなUXを実現するために自身初のSPAを開発。
+具体的な質問内容に対し、GCP Natural Language APIを用いて単語単位の分解分析を行うことで回答精度の向上を検討中。
+
+<img src='/uchuda_yuma.github.io/assets/images/mentabot.png'>
+
+### テスト・周辺ツール
+- phpunit
+- PHP Coding Standards Fixer（syntaxチェック）
+- PHP CS Fixer（自動整形）
+- GitLab Runner（CI/CD）
+- GCP Natural Language API （自然言語処理）
+
+### アプリケーション
+- Laravel 5.5
+- PHP7.3
+- react.js 16.8
+- sass
+- MariaDB 14.4.4
+- nginx 1.15
+
+### 本番環境
+Amazon
+- EC2(3台)
+- Docker Swarm
+- S3
+
+### 開発環境
+**docker-compose**
+- PHP7.3
+- nginx
+- MariaDB
+- node.js
+
+### パッケージマネージャー
+- composer
+- yarn
+
+
 
 
 ## 2019年1月〜5月
@@ -64,8 +110,9 @@ Amazon
 - MariaDB
 - gulp(sassコンパイル用タスクランナー)
 
-## 2018年2月〜
-**Docker研修スタート**
+
+
+
 
 ## 2018年2月〜12月
 **起業家向けSNS**
@@ -95,6 +142,8 @@ Amazon
 - nginx
 - MariaDB
 - gulp(sassコンパイル用タスクランナー)
+
+
 
 ## 2017年8月〜2017年12月
 **ソーシャルギフトサービス「[Anny](https://anny.gift)」**
@@ -126,6 +175,10 @@ Amazon
 - nginx1.12
 - jQuery 3.2.1
 - MySQL 5.7
+
+### パッケージマネージャー
+- gem
+
 
 
 ## 2016年9月〜2017年5月
