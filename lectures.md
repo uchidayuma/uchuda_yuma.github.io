@@ -1,108 +1,64 @@
 # 職務経歴
 このページは株式会社ルートプラス 代表の打田裕馬の講師経歴を掲載しているページです。
-私に興味を持っていただいた方や開発の依頼は各種SNSか、メールでご連絡いただきますようにお願いします。
+私に興味を持っていただいた方や開発の依頼は各種SNSか、メールでご連絡いただきますようにお願いします。　　
 
 
 ## 2018年7月〜
-**Docker基礎研修スタート**
+**Docker基礎研修スタート**　　  
+Dockerの概要〜基本コマンド、docker-composeを使ったローカル開発環境までDockerの基礎を2日間かけて学んでいく研修です。  
+2日目の最後にはRancherを使った本番環境へのデプロイを行い、基礎〜コンテナを使った本番環境へのデプロイまでハンズオン形式でスキルアップできる研修になっています。  
+
+![Docker](/assets/images/docker.png)
 
 
+### 内容
+- Dockerの概要
+- コンテナと仮想マシンの違い
+- Dockerコマンドの基礎
+- docker-composeを使ったローカル環境の構築
+- Dockerfileを使ったDocker imageの構築
+- Rancherの概要
+- Rancherを使った本番環境へのデプロイ
 
-### アプリケーション
-- Laravel 5.8
-- PHP7.3
-- jquery 3.3.1
-- sass
-- MariaDB 14.4.4
-- nginx 1.15
+<br/>
+<br/>
+<br/>
 
-### 本番環境
-Amazon
-- EC2
-- RDS
-- S3
+## 2018年5月〜6月
 
-### ローカル開発環境
-**docker-compose**
-- PHP7
-- nginx
-- MariaDB
-- gulp(sassコンパイル用タスクランナー)
+**新入社員向けアルゴリズム・データベース研修**
 
+![postgresql](/assets/images/postgres.jpg)
 
-## 2019年1月〜5月
+<br/>
+<br/>
+<br/>
 
-直感的操作でWebサイトを開発できるCMSシステムの開発。 [iframe + contenteditable]の組み合わせにより、直感的操作で思い通りのWebサイトを開発できる仕組みを以下の技術で開発した。
-jQueryによるDOM操作を多数用いながらも、メソッドの共通化・コンポーネント化による拡張性の高いコードを実現した。
-
-### アプリケーション
-- codeigniter3
-- PHP7.2
-- jquery 3.3.1
-- MariaDB 13.3.8
-- nginx 1.10
-
-### 本番環境
-Amazon
-- EC2
-- RDS
-- S3
-
-### ローカル開発環境
-**docker-compose**
-- PHP7.2
-- nginx
-- MariaDB
-- gulp(sassコンパイル用タスクランナー)
 
 ## 2018年2月〜
-**Docker研修スタート**
 
-## 2018年2月〜12月
-**起業家向けSNS**
+**初心者向けPHPセミナー**
+自社開発のPHP・MySQLセミナー。  
+プログラミングが初めての方でも4時間で簡易版Twitterが開発できるセミナーです。
+あえてフレームワークは使わず、クラウド開発環境を利用することで短時間での開発を実現可能にしました。
+*レビューでは高評価をいただいています。*
 
-直感的操作でWebサイトを開発できるCMSシステムの開発。 iframe + contenteditableの組み合わせにより、直感的操作で思い通りのWebサイトを開発できる仕組みを以下の技術で開発した。
+[ストリートアカデミーのセミナー紹介ページ](https://www.street-academy.com/myclass/29860)
 
-<img src='/uchuda_yuma.github.io/assets/images/suke10.png'>
--- https://suke10.comより引用 --
+![twitter](/assets/images/twitter.png)
 
-
-### アプリケーション
-- codeigniter3
-- PHP7.0
-- react.js 16.1.1
+### アプリケーション環境
+- codenvy(クラウドIDE)
+- PHP 7.0
 - MySQL 5.7
-- nginx 1.10
-
-### 本番環境
-Amazon
-- EC2
-- RDS
-- S3
-
-### ローカル開発環境
-**docker-compose**  
-- PHP7
-- nginx
-- MariaDB
-- gulp(sassコンパイル用タスクランナー)
 
 <br/>
 <br/>
 <br/>
 
-## 2016年9月〜2017年5月
-**学生発信型インターンシップサイト「リクエスターン」**  
-ルートプラスおよび、打田初となる自社サービス。  
-学生が企業担当者に向けて動画でアピールできる逆求人サイト。マッチング機能、チャット機能を備えていたが、1年間でマネタイズできず頓挫。  
+## 2017年5月〜6月
 
-[リクエスターン](https://prtimes.jp/main/html/rd/p/000000001.000021364.html)
+**新入社員向けJAVA研修**  
+幕張にて日本IBM様の新入社員向け研修のJAVAクラスを担当しました。アルゴリズムの基本的な部分から、クラス等を使ったオブジェクト指向まで新入社員のスキルアップに貢献しました。
 
-### アプリケーション
-- PHP5.7
-- MySQL 5.7
-- Azure App engine
-
-### 本番環境  
-- Azure App engine
-- Azure Blob Storage
+![java](/assets/images/java.jpg)
