@@ -30,6 +30,8 @@ Dockerの概要〜基本コマンド、docker-composeを使ったローカル開
 
 ![postgresql](/assets/images/postgres.jpg)
 
+合同新入社員研修でプログラムのアルゴリズムに特化した研修・PostgreSQLを用いたデータベースSQL研修（ハンズオン形式）の講師を務め、プログラミングの考え方、データベースの利用例・実際のSQL研修などを行い、新入社員のスキルアップに貢献しました。
+
 <br/>
 <br/>
 <br/>
