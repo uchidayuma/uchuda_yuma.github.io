@@ -209,4 +209,13 @@ Amazon
 ルートプラスおよび、打田初となる自社サービス  
 学生が企業担当者に向けて動画でアピールできる逆求人サイト。マッチング機能、チャット機能を備えていたが、1年間でマネタイズできず頓挫。  
 
-[リクエスターン](https://prtimes.jp/main/html/rd/p/000000001.000021364.html)
+[リクエスターン](https://prtimes.jp/main/html/rd/p/000000001.000021364.html)  
+
+### アプリケーション
+- PHP5.7
+- MySQL 5.7
+- Azure App engine
+
+ ### 本番環境  
+- Azure App engine
+- Azure Blob Storage
