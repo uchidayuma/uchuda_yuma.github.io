@@ -206,24 +206,7 @@ Amazon
 
 ## 2016年9月〜2017年5月
 **学生発信型インターンシップサイト「リクエスターン」**
-ルートプラスおよび、打田初となる自社サービス
+ルートプラスおよび、打田初となる自社サービス  
+学生が企業担当者に向けて動画でアピールできる逆求人サイト。マッチング機能、チャット機能を備えていたが、1年間でマネタイズできず頓挫。  
+
 [リクエスターン](https://prtimes.jp/main/html/rd/p/000000001.000021364.html)
-
-
-
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uchidayuma/uchuda_yuma.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
